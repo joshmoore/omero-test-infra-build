@@ -42,3 +42,7 @@
 	path = omero-cli-render
 	url = git://github.com/ome/omero-cli-render
 	branch = master
+[submodule "omero-test-infra"]
+	path = omero-test-infra
+	url = git://github.com/openmicroscopy/omero-test-infra
+	branch = master
